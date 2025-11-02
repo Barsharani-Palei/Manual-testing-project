@@ -1,2 +1,19 @@
-# Manual-testing-project
-Complete manual testing project on SauceDemo website with test plan, test cases, and bug reports.
+# Manual Testing Project – SauceDemo Website
+
+## 📋 Overview
+This project demonstrates manual testing skills using the SauceDemo website.
+
+## 🧪 Deliverables
+- Test Plan  
+- Test Scenarios  
+- Test Cases  
+- Bug Report  
+- Test Summary Report  
+
+## 🛠️ Tools Used
+- Excel for test case documentation  
+- Word for planning and summary  
+- GitHub for project hosting
+
+## 🎯 Objective
+To ensure all functionalities of the SauceDemo e-commerce site work as expected.
