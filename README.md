@@ -14,6 +14,7 @@ This project demonstrates manual testing skills using the SauceDemo website.
 - Excel for test case documentation  
 - Word for planning and summary  
 - GitHub for project hosting
+- JIRA for Logging Defects
 
 ## 🎯 Objective
 To ensure all functionalities of the SauceDemo e-commerce site work as expected.
