@@ -1,4 +1,4 @@
-# Manual Testing Project – SauceDemo Website
+## Manual Testing Project – SauceDemo Website
 
 ## 📋 Overview
 This project demonstrates manual testing skills using the SauceDemo website.
