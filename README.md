@@ -8,7 +8,8 @@ This project demonstrates manual testing skills using the SauceDemo website.
 - Test Scenarios  
 - Test Cases  
 - Bug Report  
-- Test Summary Report  
+- Test Summary Report
+- RTM
 
 ## 🛠️ Tools Used
 - Excel for test case documentation  
